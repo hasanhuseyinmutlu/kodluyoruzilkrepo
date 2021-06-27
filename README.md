@@ -2,7 +2,7 @@
 
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
-# Installation
+## Installation
 
 ---
 
@@ -13,7 +13,7 @@ git clone https://github.com/xacah-x/kodluyoruzilkrepo
 
 ```
 
-# Usage
+## Usage
 
 ---
 
@@ -25,13 +25,13 @@ cd kodluyoruzilkrepo
 code . 
 ```
 
-# Contributing
+## Contributing
 
 ---
 
 Pull requests acceptable,for major changes, please open a thread to discuss what you want to change first.
 
-# License
+## License
 
 [MIT] {<https://choosealicense.com/licenses/mit/>}
 
