@@ -47,4 +47,4 @@ Pull requests acceptable,for major changes, please open a thread to discuss what
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
-![github](deneme.jpg)
+![github](C:\Users\Monster\kodluyoruzilkrepo\deneme.jpg)
