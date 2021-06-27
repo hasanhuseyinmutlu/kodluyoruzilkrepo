@@ -8,18 +8,21 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 first you are  must clone the project .(must the you are url )
 
-'git clone https://github.com/xacah-x/kodluyoruzilkrepo'
+`git clone https://github.com/xacah-x/kodluyoruzilkrepo`
+
 
 # Usage
 
 ---
 
- when you are clone the project run the VS Code 
+when you are clone the project run the VS Code 
 
 (for windows)
-'cd kodluyoruzilkrepo
-code . '
 
+```terminal
+ cd kodluyoruzilkrepo`
+ code .
+```
 # Contributing
 
 ---
