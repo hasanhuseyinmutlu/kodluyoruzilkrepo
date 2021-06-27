@@ -33,5 +33,5 @@ Pull requests acceptable,for major changes, please open a thread to discuss what
 
 ## License
 
-[MIT] {<https://choosealicense.com/licenses/mit/>}
+[MIT] (https://choosealicense.com/licenses/mit/)
 
