@@ -8,7 +8,10 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 first you are  must clone the project .(must the you are url )
 
-'git clone https://github.com/xacah-x/kodluyoruzilkrepo'
+```
+git clone https://github.com/xacah-x/kodluyoruzilkrepo
+
+```
 
 # Usage
 
