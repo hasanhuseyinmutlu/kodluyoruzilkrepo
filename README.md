@@ -45,3 +45,7 @@ Pull requests acceptable,for major changes, please open a thread to discuss what
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+<<<<<<< HEAD
+=======
+
+>>>>>>> 5518d5806236b66b9ed9b53e49eed1e72a80ebbb
