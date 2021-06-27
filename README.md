@@ -17,8 +17,10 @@ first you are  must clone the project .(must the you are url )
  when you are clone the project run the VS Code 
 
 (for windows)
-```cd kodluyoruzilkrepo
-code . ```
+```
+cd kodluyoruzilkrepo
+code . 
+```
 
 # Contributing
 
